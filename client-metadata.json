@@ -1,7 +1,7 @@
 {
   "client_id": "https://krits14.github.io/bluesky-oauth/client-metadata.json",
   "client_name": "My Bluesky App",
-  "redirect_uris": ["https://0f66-2a02-85f-fd25-d284-c997-ae21-21a2-6a4e.ngrok-free.app"],
+  "redirect_uris": ["http://127.0.0.1:4040"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "scope": "atproto",

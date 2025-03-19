@@ -1,7 +1,7 @@
 {
   "client_id": "https://krits14.github.io/bluesky-oauth/client-metadata.json",
   "client_name": "My Bluesky App",
-  "redirect_uris": ["http://127.0.0.1:3000/callback"],
+  "redirect_uris": ["https://www.mentionlytics.com/free-brand-monitoring/?utm_medium=cpc&utm_source=google&utm_term=mentionlytics&utm_campaign=*+Mentionlytics+-+Brand&hsa_acc=2385940769&hsa_cam=19589497642&hsa_grp=142221258421&hsa_ad=645545945990&hsa_src=g&hsa_tgt=kwd-489755429930&hsa_kw=mentionlytics&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw1um-BhDtARIsABjU5x4F4X9JikrJHlSd0ap983Cm3pN4Z9HphSq5B9H4oOLRsaKAtGfYTxMaAk_WEALw_wcB&iss=https%3A%2F%2Fbsky.social&error=invalid_request&error_description=Loopback+redirect+URIs+are+only+allowed+for+native+apps"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "scope": "atproto",

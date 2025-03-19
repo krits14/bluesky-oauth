@@ -1,7 +1,7 @@
 {
   "client_id": "https://krits14.github.io/bluesky-oauth/client-metadata.json",
   "client_name": "My Bluesky App",
-  "redirect_uris": ["http://127.0.0.1:5000/"],
+  "redirect_uris": ["http://127.0.0.1:3000/"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "scope": "atproto",
